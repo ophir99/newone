@@ -1,0 +1,45 @@
+html{
+	font-family: 'Roboto', sans-serif;
+}
+
+body{
+	background-color:rgb(255,193,7);
+	height:500px;
+	background: radial-gradient(ellipse farthest-corner, #f1e466 0%, #ffcc00 100%);
+}
+/******************#ff5177***********header start******************************/
+.p_header{
+	background-color:rgb(255,193,7);
+	height:500px;
+	background: radial-gradient(ellipse farthest-corner, #f1e466 0%, #ffcc00 100%);
+}
+.h_logo{
+	width: 250px;
+}
+.dimage{
+	width: 400px;
+}
+.d_l_border{
+	margin-top: 5%;
+	padding-top: 2%;
+	background-color: white;
+	height: 230px;
+}	
+/*****************************header end******************************/
+p{
+	color: grey;
+}
+h1{
+	font-family: 'Roboto';
+	font-weight:100;
+	font-size: 50px;	
+}
+h3{	font-size: 30px;
+	font-family: 'Roboto';
+	color: red;
+	font-weight: 300;
+}
+
+ .btn{
+ 	border-radius: 0px;
+ }

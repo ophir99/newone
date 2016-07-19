@@ -1,0 +1,19 @@
+html{
+	font-family: 'Roboto', sans-serif;
+}
+/******************#ff5177***********header start******************************/
+.p_header{
+	background-color:rgb(255,193,7);	
+	background: radial-gradient(ellipse farthest-corner, #f1e466 0%, #ffcc00 100%);
+}
+.h_logo{
+	width: 250px;
+}
+.dimage{
+	width: 200px;
+}
+.body_table{
+	margin-top: 5%;
+}
+
+/*****************************header end******************************/
